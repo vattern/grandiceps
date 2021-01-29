@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name tkw)(type KiCad)(uri /home/thys/keyboards/stoutgatv2/stoutgat.pretty)(options "")(descr ""))
+  (lib (name foostan)(type KiCad)(uri /home/thys/keyboards/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)
