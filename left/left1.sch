@@ -786,7 +786,7 @@ Text GLabel 1525 3525 0    50   Input ~ 0
 row4
 Text GLabel 4125 7425 0    50   Input ~ 0
 row0
-Text GLabel 5575 6325 2    50   Input ~ 0
+Text GLabel 5575 6725 2    50   Input ~ 0
 row1
 Text GLabel 4125 6325 0    50   Input ~ 0
 col0
@@ -804,7 +804,7 @@ Text GLabel 6850 1500 1    50   Input ~ 0
 col5
 Text GLabel 5575 6825 2    50   Input ~ 0
 col1
-Text GLabel 5575 6725 2    50   Input ~ 0
+Text GLabel 5575 6425 2    50   Input ~ 0
 col2
 Text GLabel 5575 6625 2    50   Input ~ 0
 col3
@@ -832,7 +832,7 @@ Text GLabel 4125 7725 0    50   Input ~ 0
 ROT1B
 Text GLabel 4125 7625 0    50   Input ~ 0
 ROT1A
-Text GLabel 5575 6425 2    50   Input ~ 0
+Text GLabel 5575 6325 2    50   Input ~ 0
 col5
 NoConn ~ 5575 7025
 NoConn ~ 5575 7125
@@ -1479,7 +1479,7 @@ L Device:R_Small R1
 U 1 1 60143282
 P 3350 5000
 F 0 "R1" H 3409 5046 50  0000 L CNN
-F 1 "R_Small" H 3409 4955 50  0000 L CNN
+F 1 "10K" H 3409 4955 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3350 5000 50  0001 C CNN
 F 3 "~" H 3350 5000 50  0001 C CNN
 	1    3350 5000
