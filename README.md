@@ -1,3 +1,4 @@
+Released under CC BY-SA 4.0 license
 # grandiceps
 ![grandiceps](https://i.imgur.com/FMtsboV.jpg)
 
