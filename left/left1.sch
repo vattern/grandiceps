@@ -1506,4 +1506,15 @@ F 3 "~" H 975 10425 50  0001 C CNN
 	1    975  10425
 	1    0    0    -1  
 $EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6045FAAA
+P 4125 6625
+F 0 "#PWR?" H 4125 6475 50  0001 C CNN
+F 1 "+5V" H 4140 6798 50  0000 C CNN
+F 2 "" H 4125 6625 50  0001 C CNN
+F 3 "" H 4125 6625 50  0001 C CNN
+	1    4125 6625
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
