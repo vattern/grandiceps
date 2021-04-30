@@ -1,4 +1,4 @@
-17062351124873100
+17067210446381050
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75809,6 +75809,27 @@ Tenting_Puck
 0
 5
 1
+gcp
+pimoroni-trackballl-bommod
+Through hole straight pin header, 1x05, 1.00mm pitch, single row
+Through hole pin header THT 1x05 1.00mm single row
+0
+9
+9
+gcp
+pimoroni_trackball
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+gcp
+pimoroni_trackball_reversible
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+10
+5
 keyboard-lib
 SK6812Mini-E
 RGB LED

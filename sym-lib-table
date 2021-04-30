@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name tkw)(type Legacy)(uri /home/thys/keyboards/grandiceps/tkw.lib)(options "")(descr ""))
+  (lib (name "tkw")(type "Legacy")(uri "/home/thys/keyboards/grandiceps/tkw.lib")(options "")(descr ""))
+  (lib (name "grasndiceps")(type "KiCad")(uri "${KIPRJMOD}/grasndiceps.kicad_sym")(options "")(descr ""))
 )
