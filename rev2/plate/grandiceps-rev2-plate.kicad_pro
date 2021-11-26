@@ -108,7 +108,8 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997
+        "min_via_diameter": 0.39999999999999997,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
@@ -358,7 +359,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_colors": null
   },
@@ -368,7 +369,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "grandiceps-rev2.dsn",
-      "step": "",
+      "step": "../../../../Public/grandiceps-rev2-plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
