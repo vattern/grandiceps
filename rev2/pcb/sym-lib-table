@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "grasndiceps")(type "KiCad")(uri "/home/thys/keyboards/grandiceps/grasndiceps.kicad_sym")(options "")(descr ""))
+)

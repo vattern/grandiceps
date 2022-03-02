@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "reversible-kicad-footprints")(type "KiCad")(uri "/home/thys/keyboards/djinn/Rev1/reversible-kicad/reversible-kicad-footprints")(options "")(descr ""))
+)
